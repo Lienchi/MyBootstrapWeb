@@ -1,0 +1,106 @@
+.navbar-default {
+  background-color: #3c362f
+}
+
+.navbar-default ul {
+  margin: 10px 0;
+}
+
+body {
+  background-color: #272018;
+  padding-top: 70px;
+}
+
+h1 {
+  color: #ff934c;
+}
+
+h3 {
+  color: #f9f4f0;
+}
+
+#about hr {
+  border: 0.5px solid #ff934c;
+}
+
+.table th {
+    color: #f9f4f0;
+}
+
+.table td {
+    color: #959290;
+}
+
+.table > tbody > tr:first-child > th, .table > tbody > tr:first-child > td {
+    border: none;
+}
+
+#content > .container > div {
+  padding: 70px 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #ff934c;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #cc753c;
+}
+
+.navbar-nav li {
+  padding: 5px 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #f9f4f0;
+  background-color: #3c362f
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #3c362f;
+  border: 1px solid #3c362f;
+  background-color: #f9f4f0;
+}
+
+/* Mobile version */
+.navbar-default .navbar-toggle {
+  border-color: #f9f4f0;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #f9f4f0;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #3c362f;
+}
+
+label {
+  color: #c7c3c0;
+}
+
+.carousel-control.right, .carousel-control.left {
+  background-image:none;
+}
+
+.center_div{
+    margin: 0 auto;
+    width: 80%;
+}
+
+#footer {
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+
+#footer div {
+  display: inline-block;
+  padding: 20px 20px;
+}
+
+#footer div img {
+  width: 36px;
+  height: 36px;
+}
+
