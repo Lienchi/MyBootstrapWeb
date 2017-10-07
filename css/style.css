@@ -40,6 +40,12 @@ h3 {
     border: none;
 }
 
+#content {
+  background-color: #272018;
+  position: relative;
+  margin: 0 auto;
+}
+
 #content > .container > div {
   padding: 70px 0;
 }
